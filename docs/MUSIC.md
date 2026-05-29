@@ -2,7 +2,9 @@
 
 ## bandcamp
 
+<!--
 1. <https://agathadoyasa.bandcamp.com/>
+-->
 
 - 🏆<https://nopartyforcaodong.bandcamp.com/track/lie>
 - 🎺<https://transversales.bandcamp.com/track/sweet-fire>
