@@ -104,7 +104,12 @@
 - <https://cascaderecords.bandcamp.com/track/dzoli>
 - <https://jaubi.bandcamp.com/track/bonus-pak-damun-home-demo>
 - <https://poppydaniels.bandcamp.com/track/boundaries>
-  
+- <https://manateecommune.bandcamp.com/track/mosaic>
+- <https://kenichironishihara.bandcamp.com/track/beautiful-things-remix-feat-amanda-diva-2>
+- <https://kenichironishihara.bandcamp.com/track/my-leaving-feat-mabanua>
+- <https://0101.bandcamp.com/track/gemini>
+- <https://yutakahirasaka.bandcamp.com/album/now-is-now>
+
 ## Spotify
 
 - [GLIMMERINGS/ GOGO PENGUIN](https://open.spotify.com/intl-ja/track/5m0UzW27BFvU7DT9pzyr7v)
