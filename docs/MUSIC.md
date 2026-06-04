@@ -6,16 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- 🏆<https://nopartyforcaodong.bandcamp.com/track/lie>
-- 🎺<https://transversales.bandcamp.com/track/sweet-fire>
-- <https://floatingpoints.bandcamp.com/album/corner-of-my-eye>
-- <https://ezracollective.bandcamp.com/track/joy-to-the-world>
-- <https://yuuf.bandcamp.com/track/rken-bloom>
-- <https://ifeogunjobi.bandcamp.com/track/zimbabwe-2>
-- <https://ykikibeat.bandcamp.com/track/forever-single-mix>
-- <https://sewellandthegong.bandcamp.com/track/quiet-storm>
-- <https://evolvingrhythms.bandcamp.com/track/gratitude-in-the-field-again-mix>
-- <https://djotsuka.bandcamp.com/track/chiidhood>
 - <https://inneroceanrecords.bandcamp.com/track/barton-springs>
 - <https://kamasiwashington.bandcamp.com/track/prologue>
 - <https://bronzesilverbrass.bandcamp.com/track/conrads-lesson>
@@ -34,8 +24,6 @@
 - <https://brianenoallsaints.bandcamp.com/track/spinning-away>
 - <https://hermanosgutierrez.bandcamp.com/track/low-sun>
 - <https://mosesyoofeetrio.bandcamp.com/track/till-tomorrow>
-- <https://180g-minyocrusaders.bandcamp.com/track/kaigara-bushi>
-  - <https://youtu.be/MRrsZRXClQQ>
 - <https://sofiakourtesis.bandcamp.com/track/madres-2>
 - <https://inohidefumi.bandcamp.com/track/spartacus>
 - <https://pvinerecords.bandcamp.com/track/--37>
