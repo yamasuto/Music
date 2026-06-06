@@ -6,12 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- <https://takanohiroshi.bandcamp.com/track/rio-tokio>
-- <https://marihikohara.bandcamp.com/track/elegy-main-theme>
-- <https://hiromimusic.bandcamp.com/track/spectrum>
-- <https://harukanakamurapianoensemble.bandcamp.com/track/curtain-call-waseda-scott-hall-dec-23-2016>
-- <https://0101.bandcamp.com/track/gemini>
-- <https://mariobiondi.bandcamp.com/track/this-is-what-you-are-radio-edit-with-the-high-five-quintet>
 - <https://meitei.bandcamp.com/track/oiran-ii-ii>
 - <https://ireke.bandcamp.com/track/petit-petit-feat-agn-s-h-l-ne>
 - <https://babomoreno.bandcamp.com/track/rei-da-pesca-2>
