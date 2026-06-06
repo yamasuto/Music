@@ -6,17 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- <https://markkavuma.bandcamp.com/track/lucky-to-be-loved-ft-sahra-gure>
-- <https://sunlightsquare.bandcamp.com/album/i-believe-in-miracles-red-special-edition>
-- <https://barrycantswim.bandcamp.com/track/childhood>
-- <https://rhiannongiddens.bandcamp.com/track/black-as-crow-with-francesco-turrisi>
-- <https://brianenoallsaints.bandcamp.com/track/spinning-away>
-- <https://hermanosgutierrez.bandcamp.com/track/low-sun>
-- <https://mosesyoofeetrio.bandcamp.com/track/till-tomorrow>
-- <https://sofiakourtesis.bandcamp.com/track/madres-2>
-- <https://inohidefumi.bandcamp.com/track/spartacus>
-- <https://pvinerecords.bandcamp.com/track/--37>
-- <https://jacobmann.bandcamp.com/track/k-ne-ohe>
 - <https://takanohiroshi.bandcamp.com/track/rio-tokio>
 - <https://marihikohara.bandcamp.com/track/elegy-main-theme>
 - <https://hiromimusic.bandcamp.com/track/spectrum>
