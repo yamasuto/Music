@@ -6,17 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- <https://inneroceanrecords.bandcamp.com/track/barton-springs>
-- <https://kamasiwashington.bandcamp.com/track/prologue>
-- <https://bronzesilverbrass.bandcamp.com/track/conrads-lesson>
-- <https://fatimayamaha.bandcamp.com/track/cycle>
-- <https://division81records.bandcamp.com/track/perspective-peace-and-love>
-- <https://transversales.bandcamp.com/track/manhattan-reflections>
-- <https://kenichironishihara.bandcamp.com/track/beautiful-things-remix-feat-amanda-diva-2>
-- <https://caribouband.bandcamp.com/track/got-to-change>
-- <https://yutakahirasaka.bandcamp.com/track/entropy>
-- <https://gammenterprises.bandcamp.com/track/self-love>
-- <https://progressiveform.bandcamp.com/track/bajune-tobeta-evala-c-star>
 - <https://markkavuma.bandcamp.com/track/lucky-to-be-loved-ft-sahra-gure>
 - <https://sunlightsquare.bandcamp.com/album/i-believe-in-miracles-red-special-edition>
 - <https://barrycantswim.bandcamp.com/track/childhood>
