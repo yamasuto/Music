@@ -6,34 +6,7 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- <https://meitei.bandcamp.com/track/oiran-ii-ii>
-- <https://ireke.bandcamp.com/track/petit-petit-feat-agn-s-h-l-ne>
-- <https://babomoreno.bandcamp.com/track/rei-da-pesca-2>
-- <https://jalenngonda.bandcamp.com/album/all-about-me>
-- <https://rafikisounds.bandcamp.com/album/good-luck>
-- <https://thecirclingsun.bandcamp.com/track/mizu>
-- <https://ladywray.bandcamp.com/track/youre-gonna-win>
-- <https://carwynellisrio18.bandcamp.com/track/impossible>
-- <https://nxworries.bandcamp.com/track/everybody-gets-down>
-- <https://kiasmos.bandcamp.com/album/blurred-ep>
-- <https://songsofmohammadmostafaheydarian.bandcamp.com/track/ba-yeh-ba-yeh>
-- <https://kikagakumoyoggb.bandcamp.com/track/dancing-blue>
-- <https://collettivoimmaginario.bandcamp.com/track/vento-eterno-feat-dwight-trible-isaiah-collier>
-- <https://putumayo.bandcamp.com/track/c-est-a-c-est-a>
-- <https://quanticmusic.bandcamp.com/track/un-canto-a-mi-tierra>
-- <https://44thmove.bandcamp.com/track/the-move-ft-quelle-chris>
-- <https://akirakosemura.bandcamp.com/track/honey-lemon-soda-main-theme>
-- <https://pppubiq.bandcamp.com/track/50-ways-to-leave-your-lover-feat-rogier>
-- <https://okonski.bandcamp.com/track/october>
-- <https://lloydmillertrio.bandcamp.com/track/gol-e-gandom>
-- <https://khruangbin.bandcamp.com/track/may-ninth>
-- <https://apictureofher-me.bandcamp.com/track/pinball-machines-for-sale>
-- <https://alfamist.bandcamp.com/track/keep-on>
-- <https://yuseflateef.bandcamp.com/track/love-theme-from-spartacus>
-- <https://madisonmcferrin.bandcamp.com/track/aint-it-nice>
-- <https://panoramaland.bandcamp.com/track/serpent-maigre-2>
-- <https://johnglacier.bandcamp.com/track/ocean-steppin>
-- <https://akirakosemura.bandcamp.com/track/light-dance>
+
 - <https://thesurefiresoulensemble.bandcamp.com/track/las-olas>
 - <https://moodfamilylabel.bandcamp.com/track/dynamic-reality>
 - <https://djdbh.bandcamp.com/track/drift-away>
