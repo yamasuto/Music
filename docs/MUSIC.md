@@ -6,22 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-
-- <https://thesurefiresoulensemble.bandcamp.com/track/las-olas>
-- <https://moodfamilylabel.bandcamp.com/track/dynamic-reality>
-- <https://djdbh.bandcamp.com/track/drift-away>
-- <https://seckoukeita.bandcamp.com/track/wakili>
-- <https://coflo.bandcamp.com/track/caribbean-traffic-jam-coflo-remix>
-- <https://parannoul.bandcamp.com/track/a-lot-can-happen>
-- <https://seunkutiegypt80.bandcamp.com/track/dey-feat-damian-marley>
-- <https://kneecap.bandcamp.com/track/3cag-ft-radie-peat>
-- <https://jasminemyra.bandcamp.com/track/rising>
-- <https://tamtam.bandcamp.com/track/ramble-in-the-rainbow>
-- <https://stefanieschrank.bandcamp.com/track/fabrik>
-- <https://falcun.bandcamp.com/track/only-be-one>
-- <https://tommisch.bandcamp.com/track/for-carol>
-- <https://studiorichtermahr.bandcamp.com/track/ash>
-- <https://fatsoulsrecords.bandcamp.com/track/great-wise-chief-trinidadian-deep-jump-up-remix>
 - <https://delasoul.bandcamp.com/track/buddy-native-tongue-decision>
 - <https://mdoumoctar.bandcamp.com/track/oh-france>
 - <https://suneyerecords.bandcamp.com/track/new-life>
