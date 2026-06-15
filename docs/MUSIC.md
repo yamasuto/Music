@@ -6,16 +6,6 @@
 1. <https://agathadoyasa.bandcamp.com/>
 -->
 
-- <https://delasoul.bandcamp.com/track/buddy-native-tongue-decision>
-- <https://mdoumoctar.bandcamp.com/track/oh-france>
-- <https://suneyerecords.bandcamp.com/track/new-life>
-- <https://merak21.bandcamp.com/track/up-high>
-- <https://snipsbarbershop.bandcamp.com/track/water-get-no-enemy-ft-eduardo-brecho>
-- <https://pushthefader.bandcamp.com/track/caridad>
-- <https://amarofreitas.bandcamp.com/track/encantados>
-- <https://patriciataxxon.bandcamp.com/track/furry>
-- <https://omasta.bandcamp.com/track/kazimierz>
-- <https://yetiimusic.bandcamp.com/track/rolling>
 - <https://sofa-records.bandcamp.com/track/fukushima-5>
 - <https://analogafrica.bandcamp.com/track/chiiko-chinotinetsa>
 - <https://haniarani.bandcamp.com/track/don-t-break-my-heart>-
